@@ -1,4 +1,4 @@
-(Requires SKSE) Adds six new enchantments for gauntlets, which confer 
+SkyrimSE+SKSE mod: Adds six new enchantments for gauntlets, which confer 
 their respective effects to unarmed strikes: Fire, Frost, Shock,
 Absorb Health, Paralysis, and Chaos.
 
